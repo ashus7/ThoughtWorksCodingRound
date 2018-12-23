@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:37:42 +0530] "DELETE /assignment/book/2 HTTP/1.1" 200 35 http-bio-8080-exec-2 467
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:38:46 +0530] "PUT /assignment/book/5 HTTP/1.1" 415 1048 http-bio-8080-exec-5 15
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:39:16 +0530] "PUT /assignment/book/5 HTTP/1.1" 200 35 http-bio-8080-exec-6 222
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:40:15 +0530] "PUT /assignment/book/5 HTTP/1.1" 200 35 http-bio-8080-exec-7 20
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:40:28 +0530] "PUT /assignment/book/5 HTTP/1.1" 200 35 http-bio-8080-exec-8 47
-0:0:0:0:0:0:0:1 - - [15/Dec/2018:20:40:53 +0530] "DELETE /assignment/book/5 HTTP/1.1" 401 75 http-bio-8080-exec-9 4
